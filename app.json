@@ -1,0 +1,17 @@
+{
+  "name": "smsAuth",
+  "displayName": "smsAuth",
+  "expo": {
+    "name": "smsAuth",
+    "slug": "smsAuth",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
